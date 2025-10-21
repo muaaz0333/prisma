@@ -4,4 +4,4 @@ module.exports = {
   testPathIgnorePatterns: ['\\.vitest.ts$'],
   setupFilesAfterEnv: ['./jest.setup.js'],
   prettierPath: '../../node_modules/prettier2',
-}
+};

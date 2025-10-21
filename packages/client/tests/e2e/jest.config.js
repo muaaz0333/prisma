@@ -15,4 +15,4 @@ module.exports = () => {
       '^.+\\.(m?j|t)s$': '@swc/jest',
     },
   }
-}
+};
